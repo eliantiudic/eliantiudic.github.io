@@ -2,21 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Class assignments
 
-[Project 1 Title](https://github.com/eliantiudic/cisc3130-first-assignment)
+[First project](https://github.com/eliantiudic/cisc3130-first-assignment)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Second project](https://github.com/eliantiudic/cisc3130-assignment2)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Third project](https://github.com/eliantiudic/cisc3130-assignment3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 4](https://github.com/eliantiudic/assignment-4)
+[fourth project](https://github.com/eliantiudic/assignment-4)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2
@@ -33,5 +33,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
