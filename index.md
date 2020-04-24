@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](https://github.com/eliantiudic/cisc3130-first-assignment)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -16,6 +16,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 4](https://github.com/eliantiudic/assignment-4)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ### Category Name 2
 
