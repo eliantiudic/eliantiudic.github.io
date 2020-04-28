@@ -11,7 +11,7 @@
 ---
 [Second project](https://github.com/eliantiudic/cisc3130-assignment2)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/popcorn.jpg?raw=true"/>
 
 ---
 [Third project](https://github.com/eliantiudic/cisc3130-assignment3)
