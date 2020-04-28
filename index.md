@@ -5,6 +5,8 @@
 ### Class assignments
 
 [First project](https://github.com/eliantiudic/cisc3130-first-assignment)
+
+---
 <img src="images/music image.jpg?raw=true"/>
 
 ---
