@@ -5,7 +5,7 @@
 ### Class assignments
 
 [First project](https://github.com/eliantiudic/cisc3130-first-assignment)
-<img src="images/music pic.png?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Second project](https://github.com/eliantiudic/cisc3130-assignment2)
