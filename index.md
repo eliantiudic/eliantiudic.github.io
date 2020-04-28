@@ -16,7 +16,7 @@
 ---
 [Third project](https://github.com/eliantiudic/cisc3130-assignment3)
 
-<img src="images/popcorn.jpg?raw=true"/>
+<img src="images/music1.jpg?raw=true"/>
 
 ---
 [Fourth project](https://github.com/eliantiudic/assignment-4)
